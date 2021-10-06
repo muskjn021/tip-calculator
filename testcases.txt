@@ -1,0 +1,20 @@
+1) Check whether the JS file is interconnected to the html and css file appropriately.
+2) Check if the calculator window maximizes to the specified window size.
+3) Check if the calculator is able to use copy and paste function.
+4) Check all the numbers (0 to 9) are working properly or not.
+5) Check whether the arithmetic keys (/,-,*,+,.) are working or not.
+6) Check if the clear key is working.
+7) Check if the brackets keys are working.
+8) Check if the square and square root keys are working (if needed).
+9) Check whether the calculator is giving the right output or not.
+10) Check if it is updating the UI with the output data.
+11) Check if the calculate is working or not.
+12) Check if it is able to write the digits or not.
+13) Check if the Tip percentile is working properly or not.
+14) Check if the entered amount is giving correct tip to the user.
+15) Check if the Billamount is working correctly or not.
+16) Check if it is updating the bill amount correctly or not.
+17) Check if we can reset the pre enters amounts or not.
+18) Check if the percentiles (5%, 10%, 15%, 20%, 25%) are calculating the correct result.
+19) Check if you have a good internet connection.
+20) Check that you system is having the appropriate browser to use the calculator.
